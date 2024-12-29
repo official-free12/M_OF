@@ -1,0 +1,6 @@
+# Mega Mining GPT机器人区块链平台系统源码 海外区块链理财投资源码
+
+example.com/<br>演示站后台：example.com/admin账号admin密码20131005a<br>测试环境：宝塔、Linux系统、example.com、example.com，根目录不用管，伪静态laravel5，根据情况开启SSL<br>不得不说国外的审美真的很好，UI很精美（中国人说的花里胡哨）<br>也是一个会员分享给我的，和刚才发的框架都一样，这几套的UI看着都还行，就是功能很单一，投资理财就只是投资理财，其他功能啥的都没有<br>前后端都是英文，程序可以重新安装，也可以直接搭建我安装好的使用，都不影响<br>core目录需要设置777权限，或者所有目录<br>关闭防跨站open_basedir<br>修改数据库路径：core/vendor/cd/.env<br>EMC交易所特色：<br>1、安全透明化的交易平台，让大家能够更加快速的进行交易赚钱。<br>2、目前来说比较的稳定，所有的收益明细都可以清楚查看。<br>用法介绍：<br>1、拥有六层阶梯板块以及四套网体系统，example.com。<br>2、属于持续盈利状态、无任何泡沫的存在，从而令EMC矿池及EMC市值达到一个持续上涨的趋势。<br>软件点评：<br>1、是一款没有任何风险的区块链交易应用。<br>2、不存在任何风险及割韭菜的行为，通过奖励兑换EMC质押进行。<br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/iZbjH" style="color: red;">https://mega-file.org/iZbjH</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
